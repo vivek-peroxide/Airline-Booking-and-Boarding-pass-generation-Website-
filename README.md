@@ -22,27 +22,12 @@ This website is similar to the process of web login before flight boarding. This
 2. Sublime text/Visual studio codes or any other software that supports HTML, Php, CSS.
 3. Java JDk
 
-## ❓ How to start?
-1. Refer [This](https://github.com/Chandana047/Blood-Bank-Management-System/blob/main/README.md#question-how-to-start)
-2. Make sure that database created is named as 'airliness'(the same name as the .sql file in sql folder).
-
 ## :information_source: The file named:
 1. 'css' contains the files for the front end pages style.
 2. 'file' contains the files for the backend connections.
 3. 'image' contains images used in the front end.
 4. 'sql' contains the database file that has to be imported.
 5. 'Output Screenshots' contains the screenshots of the implementation.
-
-## :family_man_woman_boy_boy: Team:
-- Chandana G V - [Chandana](https://github.com/Chandana047)
-- Rithish Reddy - [Rithish](https://github.com/Rithish7007)
-- Balaji Subash - [Subash](https://github.com/gbsubash)
-- SriHarsha - [Harsha](https://github.com/Sriharshajasti123)
-- Varun
-- Mounish
-
-## ✉️ Have an issues or a bug? Would like to contact?
-Report [here](https://github.com/Chandana047/Airlines-seat-reservation-boarding-pass-issuance-and-aircraft-boarding/issues)
 
 ## If you liked the project and found it helpful
 Give a start 😄:star:
